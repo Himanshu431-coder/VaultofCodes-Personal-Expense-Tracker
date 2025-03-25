@@ -90,11 +90,11 @@ The application uses **Matplotlib** to generate insightful visualizations, inclu
 
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/Himanshu431-coder/VaultofCodes-Personal-Expense-Tracker/
+   git clone https://github.com/Himanshu431-coder/VaultofCodes-Personal-Expense-Tracker
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd personal-expense-tracker
+   cd expense_tracker
    ```
 3. **Run the Python Script**:
    ```bash
