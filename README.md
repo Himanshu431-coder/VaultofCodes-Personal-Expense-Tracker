@@ -98,7 +98,7 @@ The application uses **Matplotlib** to generate insightful visualizations, inclu
    ```
 3. **Run the Python Script**:
    ```bash
-   python expense_tracker.py
+   python expense_tracker_by_Himanshu_Tapde.py
    ```
 4. **Follow the Menu Prompts**:
    - Use the menu to add, view, edit, or visualize your expenses.
