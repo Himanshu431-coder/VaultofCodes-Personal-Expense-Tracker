@@ -96,11 +96,15 @@ The application uses **Matplotlib** to generate insightful visualizations, inclu
    ```bash
    cd expense_tracker
    ```
-3. **Run the Python Script**:
+3. **Activate the Virtual Enviornment**:
+   ```bash
+   scripts\activate
+   ```
+4. **Run the Python Script**:
    ```bash
    python expense_tracker_by_Himanshu_Tapde.py
    ```
-4. **Follow the Menu Prompts**:
+5. **Follow the Menu Prompts**:
    - Use the menu to add, view, edit, or visualize your expenses.
 
 ---
